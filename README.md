@@ -1,2 +1,2 @@
 # australian_commonwealth_parliament_members
-Members of Federal and State MPs and Senators
+Australian Federal and State parliament MPs and Senators
